@@ -1,9 +1,4 @@
-//
-//  TransectionModel.swift
-//  ExpendTracker
-//
-//  Created by Steve Pha on 1/26/23.
-//
+
 
 import Foundation
 import SwiftUI
