@@ -1,9 +1,3 @@
-//
-//  TransactionRow.swift
-//  ExpendTracker
-//
-//  Created by Steve Pha on 1/26/23.
-//
 
 import SwiftUI
 import SwiftUIFontIcon
