@@ -1,9 +1,4 @@
-//
-//  RecentTransactionList.swift
-//  ExpendTracker
-//
-//  Created by Steve Pha on 1/27/23.
-//
+
 
 import SwiftUI
 
